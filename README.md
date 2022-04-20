@@ -38,7 +38,8 @@
 &nbsp;
 
 <br>
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuan-giang&label=Profile%20views&color=0e75b6&style=flat" alt="xuan-giang" /> </p>
+<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
